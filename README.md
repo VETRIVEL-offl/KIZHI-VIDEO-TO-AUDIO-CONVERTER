@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Convert your favorite videos to audio files effortlessly!</b><br>
-  Developed by <a href="https://github.com/VETRIVEL-offl">VETRIVEL M</a>
+  Developed by <a href="https://github.com/VETRIVEL-offl">VETRIVEL M</a><br>
+  🌐 Try it online: <a href="https://huggingface.co/spaces/Vetrivel-offl/KIZHI-VIDEO_TO_AUDIO_CONVERTER">Hugging Face Space</a>
 </p>
 
 ---
@@ -42,7 +43,6 @@ Then open your browser and upload videos to convert!
 
 ---
 
-
 ## 📦 Requirements
 
 * Python 3.9+
@@ -55,6 +55,7 @@ Then open your browser and upload videos to convert!
 ## 🔗 Links
 
 * GitHub: [https://github.com/VETRIVEL-offl](https://github.com/VETRIVEL-offl)
+* Hugging Face Space: [https://huggingface.co/spaces/Vetrivel-offl/KIZHI-VIDEO\_TO\_AUDIO\_CONVERTER](https://huggingface.co/spaces/Vetrivel-offl/KIZHI-VIDEO_TO_AUDIO_CONVERTER)
 * License: MIT
 
 ---
